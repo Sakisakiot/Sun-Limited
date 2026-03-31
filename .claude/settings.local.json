@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(ls /Users/nicolasdemey/Projets/Sunlimited/*.png)",
+      "Bash(dig sun-limited.be A +short)",
+      "Bash(nslookup sun-limited.be)"
+    ]
+  }
+}
